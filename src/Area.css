@@ -1,0 +1,26 @@
+.title {
+  letter-spacing: 1px;
+  font-size: 26px;
+  position: relative;
+  display: inline-block;
+  z-index: 2;
+  font-family: "Poppins", sans-serif;
+  line-height: 1.5;
+  font-weight: 600;
+  letter-spacing: 1px;
+  font-size: 26px;
+  position: relative;
+  display: inline-block;
+  z-index: 2;
+  /* padding-bottom: 1.5rem!important; */
+  margin-bottom: 1.5rem!important;
+  margin-top: 3rem!important;
+  text-align: center;
+  width: 100%;
+  color: #4f4f4f;
+  /*
+  border-bottom: 1px solid #eaba6b;
+  -webkit-box-shadow: 0px 5px 8px 0px rgba(0, 0, 0, 0.1);
+  box-shadow: 0px 5px 8px 0px rgba(0, 0, 0, 0.1);
+*/
+}
